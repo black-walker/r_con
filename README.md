@@ -9,5 +9,7 @@ Scanning function still to add
 First compile v.py and bind it or send using social engineering 
 Use c&c.py to control ur victim pc 
 
-#Demo
+## Demo
 Will give demo link on page 
+## Usage
+will upload on fb page 
