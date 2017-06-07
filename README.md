@@ -5,7 +5,9 @@ You can use this as a backdooring virus
 Scanning function still to add 
 
 #How TO use IT as Backdoor?
+
 First compile v.py and bind it or send using social engineering 
 Use c&c.py to control ur victim pc 
+
 #Demo
 Will give demo link on page 
