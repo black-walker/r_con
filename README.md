@@ -1,11 +1,12 @@
 # r_con
-r_con is a tool dat can be use to scan a ip address connect to remote host and can be used as  a backdoor as it is fully capable of running system commands 
-It is still in development 
-You can use this as a backdooring virus 
-Scanning function still to add 
+r_con will be framework for post exploitation attack.It is still in development phase 
+You can use this as a backdoor for now 
+# Things need to be done
+Add function to handle multiple connection on different/same port 
+Add GUI 
+Add function to run custom command and automate basic operations 
 
-#How TO use IT as Backdoor?
-
+# How TO use IT as Backdoor?
 First compile v.py and bind it or send using social engineering 
 Use c&c.py to control ur victim pc 
 
